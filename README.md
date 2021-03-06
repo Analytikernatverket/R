@@ -1,2 +1,2 @@
 # R
-Här lägger vi kod som vi skriver i R
+Här lägger vi projekt i R
